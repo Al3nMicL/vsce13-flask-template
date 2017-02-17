@@ -13,3 +13,7 @@ $ cd Flask_test/
 $ pip install -r requirements.txt
 <br />
 $ python runserver.py 
+
+####Notes
+- Use with Python 3.x when possible
+- Don't forget to create your own virtualenv
